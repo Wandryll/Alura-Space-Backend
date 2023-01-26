@@ -24,6 +24,7 @@ media
 *.so
 
 # Distribution / packaging
+alura_space-projeto_front
 .Python
 build/
 develop-eggs/
